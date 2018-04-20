@@ -4,17 +4,15 @@ import (
 	"fmt"
 	"io"
 	"os"
-	"os/exec"
 	"path/filepath"
+
+	"github.com/crgimenes/goconfig"
+	"github.com/nuveo/log"
 )
 
-func execHelper(path, name string, arg ...string) (err error) {
-	cmd := exec.Command(name, arg...)
-	cmd.Dir = path
-	cmd.Stdout = os.Stdout
-	cmd.Stderr = os.Stderr
-	err = cmd.Run()
-	return
+type config struct {
+	InputFolder  string `json:"i" cfg:"i" cfgDefault:"./"`
+	OutputFolder string `json:"o" cfg:"o"`
 }
 
 func fileExists(path string) (ret bool) {
@@ -59,9 +57,18 @@ func visit(path string, f os.FileInfo, perr error) error {
 }
 
 func main() {
-	err := filepath.Walk("./", visit)
+
+	cfg := config{}
+
+	err := goconfig.Parse(&cfg)
+	if err != nil {
+		log.Errorln(err)
+		return
+	}
+
+	err = filepath.Walk(cfg.InputFolder, visit)
 	if err == nil || err == io.EOF {
 		return
 	}
-	fmt.Println(err)
+	log.Errorln(err)
 }
