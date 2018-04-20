@@ -66,6 +66,11 @@ func main() {
 		return
 	}
 
+	if cfg.OutputFolder == "" {
+		log.Errorln("error output folder not indicated")
+		return
+	}
+
 	err = filepath.Walk(cfg.InputFolder, visit)
 	if err == nil || err == io.EOF {
 		return
