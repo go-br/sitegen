@@ -1,11 +1,18 @@
 package main
 
 import (
+	"bufio"
+	"bytes"
+	"errors"
 	"fmt"
 	"io"
+	"io/ioutil"
 	"os"
+	"os/exec"
 	"path/filepath"
+	"strings"
 
+	"github.com/avelino/slugify"
 	"github.com/crgimenes/goconfig"
 	"github.com/nuveo/log"
 )
@@ -13,6 +20,29 @@ import (
 type config struct {
 	InputFolder  string `json:"i" cfg:"i" cfgDefault:"./"`
 	OutputFolder string `json:"o" cfg:"o"`
+}
+
+var (
+	cfg = config{}
+)
+
+func execHelper(path, name string, arg ...string) (out []byte, err error) {
+	var outbuf bytes.Buffer
+	stdout := bufio.NewWriter(&outbuf)
+	var errbuf bytes.Buffer
+	stderr := bufio.NewWriter(&errbuf)
+
+	cmd := exec.Command(name, arg...)
+	cmd.Dir = path
+	cmd.Stdout = stdout
+	cmd.Stderr = stderr
+	err = cmd.Run()
+	if errbuf.Len() > 0 {
+		err = errors.New(errbuf.String())
+		return
+	}
+	out = outbuf.Bytes()
+	return
 }
 
 func fileExists(path string) (ret bool) {
@@ -45,21 +75,71 @@ func visit(path string, f os.FileInfo, perr error) error {
 			return filepath.SkipDir
 		}
 	*/
-	path, err := filepath.Abs(path)
+	pathAbs, err := filepath.Abs(path)
 	if err != nil {
 		return err
 	}
 
-	path = filepath.Join(path, "/README.md")
-	fmt.Println(path)
+	pathOutputAbs, err := filepath.Abs(cfg.OutputFolder)
+	if err != nil {
+		return err
+	}
+
+	filePath := filepath.Join(pathAbs, "/README.md")
+
+	body, err := ioutil.ReadFile(filePath)
+	if err != nil {
+		return err
+	}
+
+	if body[0] == '#' {
+		s := strings.Split(string(body), "\n\n")
+		name := s[0][2:]
+		title := fmt.Sprintf("title = \"%s\"\n", name)
+
+		outputFileName := slugify.Slugify(name)
+
+		out, err := execHelper(path, "git", "log", "--reverse", "--format=%cI",
+			"--name-only", "--diff-filter=A", filePath)
+		if err != nil {
+			return err
+		}
+		dateSplit := strings.Split(string(out), "\n")
+		date := fmt.Sprintf("date = \"%s\"\n", dateSplit[0])
+
+		description := fmt.Sprintf("description = \"%s\"\n", s[1])
+		tags := "tags = [\"Golang\"]\n"
+		metadata := "+++\n" + title + date + description + tags + "+++\n"
+
+		metadata += string(body)
+
+		// coloca arquivos no rodapé
+
+		metadata += "\n## Arquivos desse post:\n\n"
+		files, err := ioutil.ReadDir(path)
+		if err != nil {
+			log.Fatal(err)
+		}
+		for _, local := range files {
+			name := fmt.Sprintf("https://github.com/go-br/estudos/blob/master/%s/%s", f.Name(), local.Name())
+			metadata += fmt.Sprintf("- [%s/%s](%s)\n", f.Name(), local.Name(), name)
+
+			fmt.Println(name)
+		}
+
+		outputFileName = filepath.Join(pathOutputAbs, outputFileName+".md")
+		fmt.Println(outputFileName)
+
+		err = ioutil.WriteFile(outputFileName, []byte(metadata), 0644)
+		if err != nil {
+			return err
+		}
+	}
 
 	return nil
 }
 
 func main() {
-
-	cfg := config{}
-
 	err := goconfig.Parse(&cfg)
 	if err != nil {
 		log.Errorln(err)
