@@ -107,9 +107,9 @@ func visit(path string, f os.FileInfo, perr error) error {
 		dateSplit := strings.Split(string(out), "\n")
 		date := fmt.Sprintf("date = \"%s\"\n", dateSplit[0])
 
-		description := fmt.Sprintf("description = \"%s\"\n", s[1])
+		description := fmt.Sprintf("description = \"%s\"\n", strings.TrimSpace(s[1]))
 		tags := "tags = [\"Golang\"]\n"
-		metadata := "+++\n" + title + date + description + tags + "+++\n"
+		metadata := "+++\n" + title + date + description + tags + "+++\n\n"
 
 		metadata += string(body)
 
