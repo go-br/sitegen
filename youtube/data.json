@@ -1,0 +1,2461 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/s7iYLK_PBpwsHMzYdZc10czLtME\"",
+    "nextPageToken": "CDIQAA",
+    "pageInfo": {
+        "totalResults": 53,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/03m-qcT-8dMrd7xYQfc4CA702WQ\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC4zMEQ1MEIyRTFGNzhDQzFB",
+            "snippet": {
+                "publishedAt": "2018-04-27T01:50:35.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "XML e Pizza, Hangout do grupo de estudos de Go 2018-04-26",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nPizza De Dados\nhttp://pizzadedados.com\n\nExemplo de XML do nosso grupo\nhttps://github.com/go-br/estudos/tree/master/xml\n\nRepositório do Ricardo\nhttps://github.com/chapzin/GoSped/blob/master/Model/NfeProc.go\n\nRepositório do nosso grupo:\nhttps://github.com/go-br/estudos\n\nE você encontra mais exemplos aqui:\nhttps://github.com/go-br\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3p0421uL50M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3p0421uL50M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3p0421uL50M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3p0421uL50M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3p0421uL50M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3p0421uL50M"
+                }
+            },
+            "contentDetails": {
+                "videoId": "3p0421uL50M",
+                "videoPublishedAt": "2018-04-27T02:36:53.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/DIkvCKLHn_oDRkxV_th2ekU_z7M\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2018-04-20T02:08:04.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Jupyter Notebook com Go, Hangout do grupo de estudos de Go 2018-04-19",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nMateria do Yu Watanabe:\nhttps://medium.com/@yunabe/interactive-go-programming-with-jupyter-93fbf089aff1\n\nRepositório da Jessica com os arquivos do docker:\nhttps://github.com/jtemporal/jupytergo\n\nExemplos usando Jupyter com Go\nhttps://github.com/jtemporal/lgo/tree/master/examples\n\nRepositório do nosso grupo:\nhttps://github.com/go-br/estudos\n\nE você encontra mais exemplos aqui:\nhttps://github.com/go-br\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HluswH8r268/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HluswH8r268/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HluswH8r268/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HluswH8r268/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HluswH8r268/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HluswH8r268"
+                }
+            },
+            "contentDetails": {
+                "videoId": "HluswH8r268",
+                "videoPublishedAt": "2018-04-20T03:26:47.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/xaEYmBwYMP4VipJ6ELrrC3FD9vg\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2018-04-13T02:17:06.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Middleware, Hangout do grupo de estudos de Go 2018-04-12",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nExemplo enviado pelo Felipe:\nhttps://play.golang.org/p/8SjYn-cisj\n\nExemplo do servidor HTTPS com múltiplos domínios e múltiplas assinaturas:\nhttps://github.com/go-br/server\n\nRepositório do nosso grupo:\nhttps://github.com/go-br/estudos\n\nE você encontra mais exemplos aqui:\nhttps://github.com/go-br\n\nNATS - The Cloud Native Messaging System:\nhttps://github.com/nats-io\nhttps://github.com/nats-io/gnatsd\n\ngokrazy kernel+go para Raspberry Pi 3\nhttps://gokrazy.org/\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bcxFNdkjoMw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bcxFNdkjoMw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bcxFNdkjoMw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bcxFNdkjoMw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bcxFNdkjoMw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bcxFNdkjoMw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "bcxFNdkjoMw",
+                "videoPublishedAt": "2018-04-13T03:08:49.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/0SZX_J72XFDUTy9cyI3L2K5af9I\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC5ENjI1QUI0MDI5NEQzODFE",
+            "snippet": {
+                "publishedAt": "2018-04-06T02:23:44.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "HTTPS com múltiplos domínios, Hangout do grupo de estudos de Go 2018-04-05",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nNosso domínio ainda sem nada la:\nhttps://gopher.pro.br\n\nExemplo do servidor HTTPS com múltiplos domínios e múltiplas assinaturas:\nhttps://github.com/go-br/server\n\nRepositório do nosso grupo:\nhttps://github.com/go-br/estudos\n\nE você encontra mais exemplos aqui:\nhttps://github.com/go-br\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gp7g2Q6JKLw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gp7g2Q6JKLw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gp7g2Q6JKLw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gp7g2Q6JKLw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gp7g2Q6JKLw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gp7g2Q6JKLw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "gp7g2Q6JKLw",
+                "videoPublishedAt": "2018-04-06T02:23:41.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/jI7yFvszYxmc4c4FbKz7oeDojbk\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC41RTNBREYwMkI5QzU3RkY2",
+            "snippet": {
+                "publishedAt": "2018-03-30T01:55:42.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Errors, Hangout do grupo de estudos de Go 2018-03-29",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nErrors:\nhttps://golang.org/pkg/errors/\n\nFerramenta de geração de documentação para API\nhttps://apiary.io\nhttp://dredd.io/en/latest/\n\nHangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nRepositório do nosso grupo:\nhttps://github.com/go-br/estudos\n\nE você encontra mais exemplos aqui:\nhttps://github.com/go-br\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/frBfyuuMyAU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/frBfyuuMyAU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/frBfyuuMyAU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/frBfyuuMyAU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/frBfyuuMyAU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "frBfyuuMyAU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "frBfyuuMyAU",
+                "videoPublishedAt": "2018-03-30T02:32:42.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/0xlaP_9YM9_LTFX4dfy2IxrKIDs\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC40QzRDOEU0QUYwNUIxN0M1",
+            "snippet": {
+                "publishedAt": "2018-03-23T02:22:46.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Linguagens, Hangout do grupo de estudos de Go 2018-03-22",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nBeerwar:\nhttps://github.com/avelino/beerwar\n\nHangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nRealTimeBattle:\nhttp://realtimebattle.sourceforge.net/\n\nShould I Rust, or Should I Go:\nhttps://codeburst.io/should-i-rust-or-should-i-go-59a298e00ea9\n\nUnity 3d:\nhttps://unity3d.com\n\nRepositório do nosso grupo:\nhttps://github.com/go-br/estudos\n\nE você encontra mais exemplos aqui:\nhttps://github.com/go-br\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/COK914SlQeE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/COK914SlQeE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/COK914SlQeE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/COK914SlQeE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/COK914SlQeE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "COK914SlQeE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "COK914SlQeE",
+                "videoPublishedAt": "2018-03-23T06:58:47.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/HJDUHuREsqYZJaT3SxhqCNtIvrY\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC4yQUJFNUVCMzVDNjcxRTlF",
+            "snippet": {
+                "publishedAt": "2018-03-16T02:27:43.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Queue, Hangout do grupo de estudos de Go 2018-03-15",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nExemplos de fila:\nhttps://github.com/go-br/queue\n\nbeanstalk:\ngithub.com/kr/beanstalk\n\nEssa é a versão do package que estamos mantendo:\ngithub.com/nuveo/beanstalk\n\nEvent Service Specification:\nhttps://www.omg.org/spec/EVNT/1.2/PDF\n\nRepositório do nosso grupo:\nhttps://github.com/go-br/estudos\n\nE você encontra mais exemplos aqui:\nhttps://github.com/go-br\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XwEAAf-jvHQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XwEAAf-jvHQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XwEAAf-jvHQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XwEAAf-jvHQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XwEAAf-jvHQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XwEAAf-jvHQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "XwEAAf-jvHQ",
+                "videoPublishedAt": "2018-03-16T03:33:04.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/vKFCwOsrCkeYxBgBxzKjTJTalb4\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC4yQjZFRkExQjFGODk3RUFD",
+            "snippet": {
+                "publishedAt": "2018-03-09T02:35:41.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Storing, Hangout do grupo de estudos de Go 2018-03-08",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nWomen Who Go Sampa:\nhttps://www.meetup.com/Women-Who-Go-Sampa/\n\nApply functional options pattern based on: \nhttps://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis\n\nStoring:\nhttps://github.com/nuveo/storing\n\nNovo repositório do nosso grupo:\nhttps://github.com/go-br/estudos\n\nE você encontra mais exemplos aqui:\nhttps://github.com/go-br\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iQvFrKQTMeE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iQvFrKQTMeE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iQvFrKQTMeE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iQvFrKQTMeE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iQvFrKQTMeE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iQvFrKQTMeE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "iQvFrKQTMeE",
+                "videoPublishedAt": "2018-03-09T04:37:48.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/5hY3U2xRdscQPJ92AA_-mioYJAE\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC41MzY4MzcwOUFFRUU3QzEx",
+            "snippet": {
+                "publishedAt": "2018-03-02T02:28:26.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Closer, Hangout do grupo de estudos de Go 2018-03-01",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nTabuada com algoritmo genetico do Vinicius:\nhttp://trumae.github.com/tabuada\n\nNovo repositório do nosso grupo:\nhttps://github.com/go-br/estudos\n\nE você encontra mais exemplos aqui:\nhttps://github.com/go-br\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eEU9CwVkJt8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eEU9CwVkJt8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eEU9CwVkJt8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eEU9CwVkJt8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eEU9CwVkJt8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eEU9CwVkJt8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "eEU9CwVkJt8",
+                "videoPublishedAt": "2018-03-02T02:54:41.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/Z5ZGrVhmKKdlfZ-k7WdqDsfFjXU\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC5DRUQwODMxQzUyRTlGRkY3",
+            "snippet": {
+                "publishedAt": "2018-02-23T02:27:20.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Novo repo e tests, Hangout do grupo de estudos de Go 2018-02-22",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nNovo repositório do nosso grupo:\nhttps://github.com/go-br/estudos\n\nE você encontra mais exemplos aqui:\nhttps://github.com/go-br\n\nvgo, Russ Cox, Sam e Jess:\nhttps://www.youtube.com/watch?v=sbrZfPgNmfw\n\ngoconfig:\nhttps://github.com/crgimenes/goconfig\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/opPvMXlaSQY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/opPvMXlaSQY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/opPvMXlaSQY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/opPvMXlaSQY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/opPvMXlaSQY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "opPvMXlaSQY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "opPvMXlaSQY",
+                "videoPublishedAt": "2018-02-23T03:41:51.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/kaQ6i1lRRtUI_SiKJd688jfwgbc\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC5DNkMwRUI2MkI4QkI4NDFG",
+            "snippet": {
+                "publishedAt": "2018-02-16T02:31:10.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Regexp, Hangout do grupo de estudos de Go 2018-02-15",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nExemplo de regexp no grupo de estudos:\nhttps://github.com/crgimenes/Go-Hands-On/tree/master/regexp\n\nRum playground\nhttps://github.com/rumlang/playground\n\nManual do pacote regexp:\nhttps://golang.org/pkg/regexp/\n\nParser lisp:\nhttps://github.com/crgimenes/goblin\n\nregex-golang:\nhttps://regex-golang.appspot.com\n\nregex101:\nhttps://regex101.com\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vGuzuylaBm0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vGuzuylaBm0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vGuzuylaBm0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vGuzuylaBm0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vGuzuylaBm0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vGuzuylaBm0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "vGuzuylaBm0",
+                "videoPublishedAt": "2018-02-16T02:47:36.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/ikRB7xsp4FsEWUXBh_iUspLsSzQ\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC45NkVENTkxRDdCQUFBMDY4",
+            "snippet": {
+                "publishedAt": "2018-02-09T01:35:16.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Rumlang, Hangout do grupo de estudos de Go 2018-02-08",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nrumlang:\nhttps://github.com/rumlang\n\nRum playground\nhttps://github.com/rumlang/playground\n\nParser:\nhttps://github.com/crgimenes/goblin\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xYc2PjAngXM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xYc2PjAngXM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xYc2PjAngXM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xYc2PjAngXM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xYc2PjAngXM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xYc2PjAngXM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "xYc2PjAngXM",
+                "videoPublishedAt": "2018-02-09T02:25:50.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/v-nz3_rhbIj_OacUrgYSDG-lqao\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC4zQzFBN0RGNzNFREFCMjBE",
+            "snippet": {
+                "publishedAt": "2018-02-02T09:46:53.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "sync.Once, Hangout do grupo de estudos de Go 2018-02-01",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nsync.Once:\nhttps://golang.org/pkg/sync/#example_Once\n\nPalestra Felipe sobre context\nhttps://github.com/felipeweb/talks/tree/master/context\n\nRumlang\nhttps://github.com/rumlang/rum\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KDlPMr44I2k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KDlPMr44I2k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KDlPMr44I2k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KDlPMr44I2k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KDlPMr44I2k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KDlPMr44I2k"
+                }
+            },
+            "contentDetails": {
+                "videoId": "KDlPMr44I2k",
+                "videoPublishedAt": "2018-02-02T09:46:52.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/EdpIEBkf1ku_yNcq8D8JPky_HTA\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2018-01-26T00:55:35.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "defer e for, Hangout do grupo de estudos de Go 2018-01-25",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nRumlang\nhttps://github.com/rumlang/rum\n\ngrumpy na Python Brasil\nhttps://www.youtube.com/watch?v=su62_FkIsrg\n\nmypy... É a gente falou de python também ¯\\_(ツ)_/¯\nhttp://mypy-lang.org\n\nAwesome Go\nhttps://awesome-go.com\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dpGO4YkINBY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dpGO4YkINBY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dpGO4YkINBY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dpGO4YkINBY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dpGO4YkINBY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dpGO4YkINBY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "dpGO4YkINBY",
+                "videoPublishedAt": "2018-01-26T01:25:08.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/90DP9er0gANl91JPpBuhe4m2GZg\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+                "publishedAt": "2018-01-19T00:59:54.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "internal, Hangout do grupo de estudos de Go 2018-01-18",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nStandard Go Project Layout:\nhttps://github.com/golang-standards/project-layout\n\nIssue no prest:\nhttps://github.com/prest/prest/issues/268\n\npackage main:\nhttps://www.youtube.com/channel/UCI39wKG8GQnuzFPN5SM55qw\n\nVariable models in Go:\nhttps://standupdev.com/wiki/doku.php?id=variable_models_in_go\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CRpOHK851x8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CRpOHK851x8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CRpOHK851x8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CRpOHK851x8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CRpOHK851x8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CRpOHK851x8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "CRpOHK851x8",
+                "videoPublishedAt": "2018-01-19T01:54:24.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/gB08b5gp4SAieJO99rAxuU1POTc\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+                "publishedAt": "2017-12-29T01:09:16.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "rumlang, gosidekick, Hangout do grupo de estudos de Go 2017-12-28",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nGosidekick:\ngithub.com/crgimenes/gosidekick\n\nRumlang:\ngithub.com/rumlang/rum\n\nBlackfriday:\ngopkg.in/russross/blackfriday.v2\n\nMinify:\ngithub.com/tdewolff/minify\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KdKDHZ3CHJ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KdKDHZ3CHJ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KdKDHZ3CHJ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KdKDHZ3CHJ0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KdKDHZ3CHJ0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KdKDHZ3CHJ0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "KdKDHZ3CHJ0",
+                "videoPublishedAt": "2017-12-29T02:30:21.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/QHOogSuUijrXF0rxt7wKPZQ1y3I\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2017-12-15T01:27:07.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "histograma e entropia, Hangout do grupo de estudos de Go 2017-12-14",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nHistograma\nhttps://github.com/crgimenes/histograma\n\nEntropia da senha\nhttps://github.com/crgimenes/gopsc\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FTAe07ZNBXg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FTAe07ZNBXg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FTAe07ZNBXg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FTAe07ZNBXg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FTAe07ZNBXg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FTAe07ZNBXg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "FTAe07ZNBXg",
+                "videoPublishedAt": "2017-12-15T02:40:24.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/3Xy5J0s_-VMOeH1nUZKNyz01CLg\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+                "publishedAt": "2017-12-08T01:57:14.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "pREST, Hangout do grupo de estudos de Go 2017-12-07",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nCRUD\nhttps://www.youtube.com/watch?v=CkdSQZD-ECE\nhttps://github.com/crgimenes/gocrud\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\ngoconfig\nhttps://github.com/crgimenes/goconfig\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PvWF44V738U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PvWF44V738U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PvWF44V738U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PvWF44V738U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PvWF44V738U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PvWF44V738U"
+                }
+            },
+            "contentDetails": {
+                "videoId": "PvWF44V738U",
+                "videoPublishedAt": "2017-12-08T05:46:13.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/pVwy2LmQ73UhZeSbEufdvT72AbI\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2017-12-01T01:54:05.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Context, Hangout do grupo de estudos de Go 2017-11-30",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nRumlang, um lisp escrito em Golang\nhttps://github.com/rumlang/rum\n\nPalestra sobre context do Felipe\nhttps://github.com/felipeweb/talks/tree/master/context\n\nGo-tomb\nhttps://github.com/go-tomb/tomb\n\nCode corpus\nhttps://research.swtch.com/go2017#corpus\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/95iGMxQfSxQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/95iGMxQfSxQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/95iGMxQfSxQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/95iGMxQfSxQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/95iGMxQfSxQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "95iGMxQfSxQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "95iGMxQfSxQ",
+                "videoPublishedAt": "2017-12-01T03:47:53.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/wi7oti53-ufTC9Lwn59n8ahJmWk\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2017-11-10T01:26:02.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "CRUD com pREST, Hangout do grupo de estudos de Go 2017-11-09",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\npREST\nhttps://github.com/prest/prest\n\ngourd\nhttps://github.com/crgimenes/gocrud\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CkdSQZD-ECE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CkdSQZD-ECE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CkdSQZD-ECE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CkdSQZD-ECE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CkdSQZD-ECE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CkdSQZD-ECE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "CkdSQZD-ECE",
+                "videoPublishedAt": "2017-11-10T03:38:35.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/TOZjYVM97ijvw8W6aPeKlySj9n4\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2017-10-27T01:39:35.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Brincando com Wikipedia e Go, Hangout do grupo de estudos de Go 2017-10-26",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nContinuous Delivery\nhttps://github.com/drone/drone\n\nPair programming\nhttps://marketplace.visualstudio.com/items?itemName=shyykoserhiy.sockscode-vscode\n\nCriptomoeda em Go  \nhttps://github.com/decred\n\nComputação Quântica\nhttps://www.youtube.com/watch?v=fLN1zQOPT2E\n\nDica para usar   \ncurl url | python -m json.tool\nhttps://github.com/DenizParlak/Zeus\n\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eP_RotjzsNY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eP_RotjzsNY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eP_RotjzsNY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eP_RotjzsNY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eP_RotjzsNY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eP_RotjzsNY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "eP_RotjzsNY",
+                "videoPublishedAt": "2017-10-27T03:33:14.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/oNudl-LwK4x0OM-DkO_KKG2fDXE\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2017-10-20T01:06:44.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "zip, Hangout do grupo de estudos de Go 2017-10-19",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nExemplos para comprimir e descomprimir arquivos\nhttps://github.com/crgimenes/Go-Hands-On/tree/master/zip\n\nBancos de dados em Go\nhttps://awesome-go.com/#database\n\nHacktoberfest\nhttps://hacktoberfest.digitalocean.com/\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/knJvxE90bt0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/knJvxE90bt0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/knJvxE90bt0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/knJvxE90bt0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/knJvxE90bt0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "knJvxE90bt0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "knJvxE90bt0",
+                "videoPublishedAt": "2017-10-20T02:35:01.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/9N64gFp9lN6bneRRtW9WPiSWU_U\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2017-10-13T02:22:25.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "beanstalk com Go, Hangout do grupo de estudos de Go 2017-10-12",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nBeanstalkd:\nhttps://kr.github.io/beanstalkd/download.html\n\nAurora:\nhttps://github.com/xuri/aurora\n\nExemplos do grupo de estudos:\nhttps://github.com/crgimenes/Go-Hands-On/tree/master/beanstalk\n\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oeMrXdvqedU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oeMrXdvqedU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oeMrXdvqedU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oeMrXdvqedU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oeMrXdvqedU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oeMrXdvqedU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "oeMrXdvqedU",
+                "videoPublishedAt": "2017-10-13T03:36:00.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/GVGt-AYNVqgRsJHiDyvmJG8lGHA\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2017-09-29T03:09:50.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Calculadora 555 em Go, Hangout do grupo de estudos de Go 2017-09-28",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nSimulador 555 do Cassio:\nhttps://github.com/cassiobotaro/meu_primeiro_programa\n\nhacktoberfest:\nhttps://hacktoberfest.digitalocean.com/\n\nOutros links mencionados\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nTemplates em Go\nhttps://golang.org/pkg/text/template/#Template.ExecuteTemplate\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bjDYZRFTsMs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bjDYZRFTsMs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bjDYZRFTsMs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bjDYZRFTsMs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bjDYZRFTsMs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bjDYZRFTsMs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "bjDYZRFTsMs",
+                "videoPublishedAt": "2017-09-29T07:22:36.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/Ut8EnCbDYYRzEz1wm03dNPigw_o\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2017-09-22T02:12:52.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Testes, goconvey, Hangout do grupo de estudos de Go 2017-09-21",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\ngoconvey:\nhttps://github.com/smartystreets/goconvey\n\ngocov:\nhttps://github.com/axw/gocov\n\ngofn:\nhttps://github.com/nuveo/gofn\n\ngrupo de estudos de Rust:\nhttps://github.com/rust-br/estudos\n\nBro:\nhttps://github.com/marioidival/bro\n\nginkgo:\nhttps://github.com/onsi/ginkgo\n\ncheck:\nhttps://gopkg.in/check.v1\n\nRust:\nhttps://github.com/rust-lang/rust\n\nGerrit\nhttps://www.gerritcodereview.com/\n\nOutros links mencionados\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ay_HM4PNHYg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ay_HM4PNHYg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ay_HM4PNHYg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ay_HM4PNHYg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ay_HM4PNHYg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ay_HM4PNHYg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ay_HM4PNHYg",
+                "videoPublishedAt": "2017-09-22T04:49:01.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/511-vvA3iaQoRGLbnoikLHwkp4M\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2017-09-15T02:13:24.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "CRC, Hangout do grupo de estudos de Go 2017-09-14",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nCRC:\nhttps://github.com/crgimenes/Go-Hands-On/tree/master/crc\n\nTeclado com um só botão:\nhttps://www.youtube.com/watch?v=2ZL3OR1C4WQ\n\nOutros links mencionados\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NS4NR3isDeQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NS4NR3isDeQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NS4NR3isDeQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NS4NR3isDeQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NS4NR3isDeQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NS4NR3isDeQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "NS4NR3isDeQ",
+                "videoPublishedAt": "2017-09-15T03:12:19.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/w-kriR0Je8YXaOQctYEn6xWvLng\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2017-09-08T03:01:00.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Lua + Go, Hangout do grupo de estudos de Go 2017-09-07",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nSite do pREST\nhttps://postgres.rest\n\nIssue para implementar MySQL no pREST\nhttps://github.com/prest/prest/issues/213#issuecomment-327961800\n\nFunções ZZ\nhttp://funcoeszz.net/list.html\n\nGrupo de estudos de RUST\nhttps://t.me/rustlangbr\n\nGopherLua\nhttps://github.com/yuin/gopher-lua\n\nGopherLua Benchmarks\nhttps://github.com/yuin/gopher-lua/wiki/Benchmarks\n\nExemplos de Go + Lua\nhttps://github.com/crgimenes/Go-Hands-On/tree/master/lua\n\nOutros links mencionados\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DtgHPcrtZME/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DtgHPcrtZME/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DtgHPcrtZME/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DtgHPcrtZME/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DtgHPcrtZME/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DtgHPcrtZME"
+                }
+            },
+            "contentDetails": {
+                "videoId": "DtgHPcrtZME",
+                "videoPublishedAt": "2017-09-08T06:24:39.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/-8MSeGetetUBjvFEliUWnjYpc54\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2017-09-01T03:02:58.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "pREST, material de estudos, Hangout do grupo de estudos de Go 2017-08-31",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nSite do pREST\nhttps://postgres.rest\n\ngoConfig\nhttps://github.com/crgimenes/goconfig\n\ntcp-port-wait\nhttps://github.com/nuveo/tcp-port-wait\n\nFunções ZZ\nhttp://funcoeszz.net/list.html\n\nThe Dev Conf\nhttp://cfp-poa.thedevconf.com.br\n\n\nOutros links mencionados\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dEhxW57wIKU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dEhxW57wIKU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dEhxW57wIKU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dEhxW57wIKU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dEhxW57wIKU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dEhxW57wIKU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "dEhxW57wIKU",
+                "videoPublishedAt": "2017-09-01T05:40:48.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/44qr8Xh0JHxWjdMB-CtliI8v-Ds\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2017-08-25T02:06:49.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "gofn, Go1.9, Hangout do grupo de estudos de Go 2017-08-24",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nTest After Deploy\nhttps://www.youtube.com/c/testafterdeploy\n\nMeetup de Go na Totvs dia 30/08\nhttps://www.meetup.com/pt-BR/golangbr/\n\nGo 1.9 liberado\nhttps://blog.golang.org/go1.9\n\nRelease notes da versão 1.9\nhttps://golang.org/doc/go1.9\n\nDownload da nova versão em\nhttps://golang.org/dl/\n \nOutros links mencionados\nhttps://www.linuxcounter.net/cert/76132.png\nhttps://twitter.com/subfuzion/status/900875782448230400\nhttps://blog.cloudflare.com/how-and-why-the-leap-second-affected-cloudflare-dns/\nhttps://github.com/rancher/rancher\nhttps://github.com/jwendell/fnkube\nhttps://devcenter.heroku.com/articles/container-registry-and-runtime\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EBjfRVejohs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EBjfRVejohs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EBjfRVejohs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EBjfRVejohs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EBjfRVejohs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EBjfRVejohs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "EBjfRVejohs",
+                "videoPublishedAt": "2017-08-25T06:48:11.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/_uCBbtcWrEd9xRB19rnkLKoBtr4\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2017-08-18T08:56:38.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Conhecendo seu ambiente, Hangout do grupo de estudos de Go 2017-08-17",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nTest After Deploy\nhttps://www.youtube.com/c/testafterdeploy\n\nMeetup de Go na Totvs dia 30/08\nhttps://www.meetup.com/pt-BR/golangbr/\n\nhttps://medium.com/@avelino0/conheça-seu-ambiente-de-trabalho-cf16f8cd555a\nhttp://onlywei.github.io/explain-git-with-d3/\nhttps://webcache.googleusercontent.com/search?q=cache%3A7kX5VunbdlwJ%3Ahttps%3A%2F%2Fgithub.com%2Fmicrosoft%2Fvscode%2Fissues%2F32405+&cd=1&hl=en&ct=clnk&gl=de&client=firefox-b\nhttps://twitter.com/shanselman/status/898282514418081792\nhttps://github.com/avelino/vim-bootstrap\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qn3UP_K5pD8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qn3UP_K5pD8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qn3UP_K5pD8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Qn3UP_K5pD8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Qn3UP_K5pD8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Qn3UP_K5pD8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Qn3UP_K5pD8",
+                "videoPublishedAt": "2017-08-18T08:36:27.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/g5FIQ1EAA08wAODvhMIXVS1T1vs\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2017-08-11T02:40:40.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "lex, Hangout do grupo de estudos de Go 2017-08-10",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nhttps://2017.gopherconbr.org/\nhttps://github.com/bbalet/theary\nhttps://github.com/crgimenes/gosidekick\nhttps://github.com/crgimenes/lex\nhttps://github.com/geiltonxavier/aprenda-go\nhttps://github.com/prest/statements/blob/master/queries.go\nhttps://mailtrap.io/\nhttps://www.youtube.com/c/testafterdeploy\nhttps://www.youtube.com/channel/UCZCoLtEGz3MdvxgFhbdZ-QA\nhttps://www.thoughtworks.com/pt/radar\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VxxhfbOk3CI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VxxhfbOk3CI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VxxhfbOk3CI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VxxhfbOk3CI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VxxhfbOk3CI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "VxxhfbOk3CI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "VxxhfbOk3CI",
+                "videoPublishedAt": "2017-08-11T09:27:57.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/vmOS2yhDEqaFMoqyN4KVsz1UfiU\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2017-08-04T02:19:40.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "vendor, Hangout do grupo de estudos de Go 2017-08-03",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nhttps://www.facebook.com/permalink.php?story_fbid=1962033867157381&id=100000523594033&pnref=story\nhttps://www.youtube.com/c/TestAfterDeploy\nhttps://discordapp.com/\nhttps://github.com/sirupsen/logrus/issues/570#issuecomment-313933276\nhttps://twitter.com/avelino0/status/892882581351526400\nhttps://github.com/prest/prest/issues/190\nhttps://gobyexample.com/rate-limiting\nhttp://minio.io/\nhttp://rancher.com/\nhttps://en.wikipedia.org/wiki/Fizz_buzz\nhttps://discordapp.com/\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3tzhycczTGA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3tzhycczTGA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3tzhycczTGA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3tzhycczTGA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3tzhycczTGA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3tzhycczTGA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "3tzhycczTGA",
+                "videoPublishedAt": "2017-08-04T10:38:12.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/hB1AMj-TWWX4x0Uj3dk83PF21xM\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2017-07-28T03:15:21.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "context, Hangout do grupo de estudos de Go 2017-07-27",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nhttps://github.com/prsolucoes/goci\nhttps://github.com/golang/go/issues/13080\nhttps://golang.org/pkg/context/\nhttp://pcoutinho.com/projetos/\nhttps://github.com/gonum/gonum\nhttps://www.oreilly.com/ideas/data-science-gophers\nhttps://speakerdeck.com/rebeccaskinner/monadic-error-handling-in-go\nhttps://gist.github.com/marioidival/6b1c6086e8a846fbb286e630d333b35d\nhttps://github.com/d4l3k/go-pry\nhttps://github.com/gonum\nhttps://github.com/kniren/gota/\nhttps://github.com/qingtiandalaoye/GoDataframe\nhttps://github.com/yanatan16/itertools\nhttps://github.com/wwg-poa/tutorial\nhttps://www.youtube.com/watch?v=5C1joxyjfk8\nhttps://github.com/AsynkronIT/protoactor-go\nhttps://github.com/lizrice/strace-from-scratch\nhttps://github.com/marioidival/go\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h9wY_hSfMWE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h9wY_hSfMWE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h9wY_hSfMWE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/h9wY_hSfMWE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/h9wY_hSfMWE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "h9wY_hSfMWE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "h9wY_hSfMWE",
+                "videoPublishedAt": "2017-07-28T09:50:14.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/hA97z_1QlEsHneM-Fv7ZXrNOg6Y\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2017-07-21T09:24:29.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Testes, Polimorfismo, Otimização, e muito mais, Hangout do grupo de estudos de Go 2017-07-20",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nhttps://www.meetup.com/pt-BR/golangbr/\nhttps://www.youtube.com/watch?v=gnTsHQEVoZE\nhttps://github.com/markbates/pop/tree/master/fizz\nhttps://github.com/crgimenes/gosidekick\nhttps://github.com/powerline/fonts/tree/master/3270\nhttps://www.qt.io/developers/\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 20h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UEetodHInzE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UEetodHInzE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UEetodHInzE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UEetodHInzE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UEetodHInzE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UEetodHInzE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "UEetodHInzE",
+                "videoPublishedAt": "2017-07-21T07:40:34.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/ZZucNrQYOuY5JYSau1PrgZJm4Fo\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2017-07-14T00:57:51.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "GopherCon, Go2.0, e muito mais, Hangout do grupo de estudos de Go 2017-07-13",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nhttps://github.com/dut-lang/dut\nhttps://github.com/dut-lang/unittest\nhttps://github.com/avelino/awesome-go#middlewares\nhttps://awesome-go.com/#middlewares\nhttps://github.com/tj/git-extras\nhttps://github.com/d4l3k/go-pry\nhttps://www.youtube.com/watch?v=PgAO4YhOsKw&t=1134s\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 20h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UWgT46y4Qhw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UWgT46y4Qhw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UWgT46y4Qhw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UWgT46y4Qhw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UWgT46y4Qhw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UWgT46y4Qhw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "UWgT46y4Qhw",
+                "videoPublishedAt": "2017-07-14T09:57:01.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/NLW-5D9IYKK8h6KxMD-TAbE0KF0\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2017-07-07T01:22:32.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "editores, map, e muito mais, Hangout do grupo de estudos de Go 2017-07-06",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nhttp://vim-bootstrap.com/\nhttps://github.com/visualfc/liteide\nhttps://micro-editor.github.io/\nhttps://github.com/zyedidia/micro\nhttps://github.com/golang/go/blob/master/src/sync/map.go\nhttps://twitter.com/fakalin/status/883115293299453952\nhttps://tip.golang.org/doc/go1.9\nhttps://github.com/avelino/cover.run\nhttps://github.com/zyedidia/micro\nhttps://micro-editor.github.io/\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 20h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cHrVXvJFYRc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cHrVXvJFYRc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cHrVXvJFYRc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cHrVXvJFYRc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cHrVXvJFYRc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cHrVXvJFYRc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "cHrVXvJFYRc",
+                "videoPublishedAt": "2017-07-07T06:39:05.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/5TmVYjWnRF34_2PVqQZUCRhp2iY\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2017-06-30T03:02:56.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "testes e integração continua, Hangout do grupo de estudos de Go 2017-06-29",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\n\nhttps://github.com/nuveo/prest\nhttp://www.dci.com.br/opiniao/startup-cresce-com-ataque-a-burocracia-id634522.html\nhttp://crg.eti.br/post/Go-carregando-arquivos-Sped-Fiscal-super-rápido/\nhttps://dementiagaming.files.wordpress.com/2010/08/learning_curve_of_eve.jpg\nhttps://danielkummer.github.io/git-flow-cheatsheet/\nhttps://github.com/crgimenes/lpk\nhttps://github.com/crgimenes/Go-Hands-On\nhttp://exercism.io\nhttp://rancher.com\nhttps://github.com/nuveo/gofn/blob/master/iaas/digitalocean/digitalocean_test.go\nhttps://github.com/kr/beanstalk/blob/master/tube_test.go\nhttps://golang.org/pkg/net/http/httptest/\n\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 20h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-ox6SKvSAQo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-ox6SKvSAQo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-ox6SKvSAQo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-ox6SKvSAQo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-ox6SKvSAQo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-ox6SKvSAQo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "-ox6SKvSAQo",
+                "videoPublishedAt": "2017-06-30T08:11:25.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/4fUGBpuw32AX8VEkekUYhK0QIfg\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2017-06-23T12:13:22.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "defer e close, Hangout do grupo de estudos de Go 2017-06-22",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nhttps://joeshaw.org/dont-defer-close-on-writable-files/\nhttps://www.xkcd.com/292/\nhttps://www.youtube.com/watch?v=gnTsHQEVoZE\nhttps://goa.design\nhttps://petstore.swagger.io\nhttps://goswagger.io/\n\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 20h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hMKFT_0rKHM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hMKFT_0rKHM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hMKFT_0rKHM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hMKFT_0rKHM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hMKFT_0rKHM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hMKFT_0rKHM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "hMKFT_0rKHM",
+                "videoPublishedAt": "2017-06-23T06:45:14.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/EdDbx1Vv7HPG5_YmzIwL_mmATGk\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2017-05-12T00:30:30.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "switch, gofn, Roy, Hangout do grupo de estudos de Go 2017-05-11",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nhttps://www.phacility.com/\nhttps://github.com/nuveo/gofn\nhttps://github.com/nuveo/Roy\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 20h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J6TR-vO2WBE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J6TR-vO2WBE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J6TR-vO2WBE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/J6TR-vO2WBE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/J6TR-vO2WBE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "J6TR-vO2WBE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "J6TR-vO2WBE",
+                "videoPublishedAt": "2017-05-12T01:50:04.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/nyh_PFut_9WhHpzZGr0pr93tlWI\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2017-05-05T01:17:59.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "log, Hangout do grupo de estudos de Go 2017-04-04",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nhttps://github.com/crgimenes/logSys\nhttps://github.com/sirupsen/logrus\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 20h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N9HHQCpu5Mc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N9HHQCpu5Mc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N9HHQCpu5Mc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/N9HHQCpu5Mc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/N9HHQCpu5Mc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "N9HHQCpu5Mc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "N9HHQCpu5Mc",
+                "videoPublishedAt": "2017-05-05T04:30:25.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/bO8kVaWOADGiM7FVhEhulsy3UC0\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2017-04-28T03:22:29.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Valente, WebSockets, Hangout do grupo de estudos de Go 2017-04-28",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nhttps://github.com/trumae/valente\nhttp://nuveo.com.br/\nhttps://github.com/novatrixtech/mercurius\nhttps://github.com/felipeweb\nhttps://vuejs.org/\nhttps://github.com/alttagil/n2o\nhttps://nasa.github.io/openmct/\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 20h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dZ-g6QrPegM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dZ-g6QrPegM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dZ-g6QrPegM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dZ-g6QrPegM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dZ-g6QrPegM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dZ-g6QrPegM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "dZ-g6QrPegM",
+                "videoPublishedAt": "2017-04-28T07:11:11.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/5zCKRRoOjkiZW8ntuxEy1D-eKHs\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2017-04-21T00:45:58.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Machine Learning, Hangout do grupo de estudos de Go 2017-04-20",
+                "description": "Hangout do grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nhttp://github.com/crgimenes/news\nhttps://en.wikipedia.org/wiki/Naive_Bayes_spam_filtering\nhttps://github.com/lytics/multibayes\nhttps://blog.golang.org/generate\nhttps://github.com/SlyMarbo/rss\n\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 20h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wfe_cpHOf28/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wfe_cpHOf28/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wfe_cpHOf28/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Wfe_cpHOf28/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Wfe_cpHOf28/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Wfe_cpHOf28"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Wfe_cpHOf28",
+                "videoPublishedAt": "2017-04-21T03:17:19.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/TqWV2zeiRA5V0N3EuQPINkGFjHw\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2017-04-14T06:21:23.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Prim's Algorithm, Hangout do grupo de estudos de Go 2017-04-13",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nMinimum Spanning Tree, Prim's Algorithm\nhttps://github.com/crgimenes/graphos/tree/master/mst\n\n\nhttp://github.com/hajimehoshi/ebiten\nhttps://github.com/crgimenes/graphos\nhttp://github.com/crgimenes/metal\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 20h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zmwXFoEnj7s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zmwXFoEnj7s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zmwXFoEnj7s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zmwXFoEnj7s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zmwXFoEnj7s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zmwXFoEnj7s"
+                }
+            },
+            "contentDetails": {
+                "videoId": "zmwXFoEnj7s",
+                "videoPublishedAt": "2017-04-14T06:12:21.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/9LgqicdD62KATH0NJiUlmVCOrFg\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2017-04-07T00:20:56.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Canais, slices e biblioteca gráfica Ebiten, Hangout do grupo de estudos de Go 2017-04-06",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nhttp://github.com/hajimehoshi/ebiten\nhttp://github.com/crgimenes/metal\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 20h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pHptm31g3pM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pHptm31g3pM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pHptm31g3pM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pHptm31g3pM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pHptm31g3pM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pHptm31g3pM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "pHptm31g3pM",
+                "videoPublishedAt": "2017-04-07T04:59:44.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/yzc21s58ZMO0Ug1vzMK_y1DAAhE\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2017-03-31T00:29:40.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Testes, bug com C, Hangout do grupo de estudos de Go 2017-03-30",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nParticipantes dessa semana:\n\nArmando Alves\nCamila Scatolini\nCesar Gimenes\nGilberto Jean Bueno\nJonh Wendell\nJosé Carlos Ustra Júnio\nMauro Mequelussi\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nhttps://github.com/golang/go/issues/19734\nhttps://setemasters.imasters.com.br/edicoes/go/\n\n\nPagina no Facebook do grupo de estudos:\nhttps://www.facebook.com/gophers.br/\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 20h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x5NkKQJBfBA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x5NkKQJBfBA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x5NkKQJBfBA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/x5NkKQJBfBA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/x5NkKQJBfBA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 44,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "x5NkKQJBfBA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "x5NkKQJBfBA",
+                "videoPublishedAt": "2017-03-31T03:06:03.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/PaHCi4NrJBZ0kPTMDb-ELz2h6P8\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2017-03-24T00:57:12.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "goConfig, godoc, format, Hangout do grupo de estudos de Go 2017-03-23",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nParticipantes dessa semana:\n\nArmando Alves \nCesar Gimenes\nGilmar Palega\nJonh Wendell\nMauro Mequelussi\nRicardo Gomes\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nhttp://github.com/dgrijalva/jwt-go\nhttp://jinzhu.me/gorm\nhttp://cloudatcost.com \n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 20h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1pELvQLu1f8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1pELvQLu1f8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1pELvQLu1f8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1pELvQLu1f8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1pELvQLu1f8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1pELvQLu1f8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "1pELvQLu1f8",
+                "videoPublishedAt": "2017-03-24T04:09:56.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/eumFDLWP301bFw0fcP-Z9PvH_C0\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2017-03-17T02:00:14.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "packages, godoc, goroutines, canais, Hangout do grupo de estudos de Go 2017-03-16",
+                "description": "Hangout do nosso grupo de estudos de Golang.\nUm papo bem legal sobre a linguagem que a gente adora.\n\nParticipantes dessa semana:\n\nCesar Gimenes\nGilberto Jean\nHolanda Junior\nRicardo Gomes\nRodrigo Campos\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nhttps://github.com/avelino/awesome-go#database\nhttps://github.com/chapzin/golang-web-dev\nhttps://github.com/chapzin/parse-efd-fiscal/blob/master/SpedExec/SpedExec.go\nhttps://github.com/chapzin/parse-efd-fiscal/tree/master/model\nhttps://github.com/crgimenes/lpk\nhttps://novatec.com.br/livros/go-em-acao/\nhttps://novatec.com.br/livros/linguagem-de-programacao-go/\nhttps://www.infoq.com/br/presentations/go-em-producao-para-apis-e-microservices\nhttps://www.youtube.com/watch?v=gnTsHQEVoZE&t=124s\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 20h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5F3HHIEoQcg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5F3HHIEoQcg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5F3HHIEoQcg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5F3HHIEoQcg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5F3HHIEoQcg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 46,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5F3HHIEoQcg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "5F3HHIEoQcg",
+                "videoPublishedAt": "2017-03-17T08:56:17.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/J_o6eVdEl-GNTeeGZS1mClDvNxI\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2017-03-13T14:39:16.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "packages, flag, goConfig, analisador léxico, Hangout do grupo de estudos de Go 2017-03-02",
+                "description": "Mais um divertido encontro do nosso grupo de estudos de Golang.\nMuitas ideias e projetos surgindo com o pessoal.\n\nParticipantes dessa semana:\n\nAlejandro Mesias\nHolanda Junior\nItacir Pompeu\nJoelson\nLucas Silva\nLuis Vinicius\nRicardo Gomes\nRodrigo Savian\n\n\nLinks mencionados, alguns foram mencionados fora da gravação:\n\nhttp://crg.eti.br\nhttps://github.com/crgimenes/lex\nhttps://github.com/crgimenes/goConfig\nhttps://github.com/chapzin/automatic-ftp-client\nhttp://scikit-learn.org/stable/\nhttp://spark.apache.org/mllib/\nhttp://www.nltk.org/\nhttps://divan.github.io/posts/go_concurrency_visualize/\nhttps://gobyexample.com/command-line-arguments\nhttps://golang.org/doc/faq#goroutines\nhttps://medium.com/@matryer/5-simple-tips-and-tricks-for-writing-unit-tests-in-golang-619653f90742\nhttps://opennlp.apache.org/\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\nNossos encontros ocorrem todas as quintas-feiras as 20h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E9bnReO7IMo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E9bnReO7IMo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E9bnReO7IMo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/E9bnReO7IMo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/E9bnReO7IMo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 47,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "E9bnReO7IMo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "E9bnReO7IMo",
+                "videoPublishedAt": "2017-03-03T05:12:40.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/FMAvI-IQ44Tp3hVc69apFNoVGBs\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2017-03-13T14:39:16.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "gofn, pREST, goConfig, e mais; Hangout do grupo de estudos de Go 2017-02-23",
+                "description": "Mais uma quinta-feira se batendo papo sobre nossa linguagem favorita.\n\nEssa semana falamos sobre vários softwares escritos em Go, veja alguns links que mencionamos.\n\nMateria sobre Golang no Mercado Livre:\nhttps://imasters.com.br/linguagens/o-ceu-e-o-limite-na-utilizacao-de-golang/?trace=1519021197&source=single\n\nGo Hands On:\nhttps://github.com/crgimenes/Go-Hands-On\n\ngoConfig:\nhttps://github.com/crgimenes/goConfig\n\npREST:\nhttps://github.com/nuveo/prest\n\ngofn:\nhttps://github.com/nuveo/gofn\n\nNossos encontros ocorrem todas as quintas-feiras as 20h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S1b8H7WPYe0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S1b8H7WPYe0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S1b8H7WPYe0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/S1b8H7WPYe0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/S1b8H7WPYe0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "S1b8H7WPYe0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "S1b8H7WPYe0",
+                "videoPublishedAt": "2017-02-24T06:21:03.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/BQgt9Ek-GknZj_KRt29yt_H4pxI\"",
+            "id": "UExvVmNaRS1QNzE1RmZ5MFF0Q3N0LTBEYXNTYTQ3RVVJRC4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2017-03-13T14:39:16.000Z",
+                "channelId": "UCxRoRvJi7NbC2boKAV70t_g",
+                "title": "Goroutines e canais; Hangout do grupo de estudos de Go 2017-02-09",
+                "description": "Toda semana um grupo de programadores se encontra para estudar Go, falar de tecnologia, rever código, projetos e jogar conversa fora.\n\nPara participar entre no canal #brazilian-go-studies em https://invite.slack.golangbridge.org/ estamos on-line toda quinta as 20h00.\n\nEssa semana falamos sobre Goroutines e canais.\n\nAlguns links do que comentamos... muita coisa foi dita na parte de bate papo depois da gravação mas os links estão aqui de qualquer forma :D\n\nTeclados mecânicos http://www.wasdkeyboards.com/index.php/products/code-keyboard.html\n\nChaos Monkey (derruba serviços aleatoriamente para manter seu time esperto)\nhttps://github.com/Netflix/chaosmonkey\n\nGit server escrito em Go\nhttps://gogs.io/\n\nGitea (Fork do Gogs com mais recursos)\nhttps://gitea.io/en-us/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kg5F8t6N8mg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kg5F8t6N8mg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kg5F8t6N8mg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Kg5F8t6N8mg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Kg5F8t6N8mg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cesar Gimenes",
+                "playlistId": "PLoVcZE-P715Ffy0QtCst-0DasSa47EUID",
+                "position": 49,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Kg5F8t6N8mg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Kg5F8t6N8mg",
+                "videoPublishedAt": "2017-02-10T05:45:20.000Z"
+            }
+        }
+    ]
+}
