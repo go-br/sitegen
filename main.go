@@ -99,8 +99,15 @@ func visit(path string, f os.FileInfo, perr error) error {
 
 		outputFileName := slugify.Slugify(name)
 
-		out, err := execHelper(path, "git", "log", "--reverse", "--format=%cI",
-			"--name-only", "--diff-filter=A", filePath)
+		out, err := execHelper(
+			path,
+			"git",
+			"log",
+			"--reverse",
+			"--format=%cI",
+			"--name-only",
+			"--diff-filter=A",
+			filePath)
 		if err != nil {
 			return err
 		}
@@ -108,7 +115,7 @@ func visit(path string, f os.FileInfo, perr error) error {
 		date := fmt.Sprintf("date = \"%s\"\n", dateSplit[0])
 
 		description := fmt.Sprintf("description = \"%s\"\n", strings.TrimSpace(s[1]))
-		tags := "tags = [\"Golang\"]\n"
+		tags := "tags = [\"golang\"]\n"
 		metadata := "+++\n" + title + date + description + tags + "+++\n\n"
 
 		metadata += string(body)
