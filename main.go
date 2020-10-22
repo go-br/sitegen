@@ -12,9 +12,10 @@ import (
 	"path/filepath"
 	"strings"
 
+	"log"
+
 	"github.com/avelino/slugify"
-	"github.com/crgimenes/goconfig"
-	"github.com/nuveo/log"
+	"github.com/gosidekick/goconfig"
 )
 
 type config struct {
