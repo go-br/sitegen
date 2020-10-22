@@ -27,9 +27,11 @@ var (
 )
 
 func execHelper(path, name string, arg ...string) (out []byte, err error) {
-	var outbuf bytes.Buffer
+	var (
+		outbuf bytes.Buffer
+		errbuf bytes.Buffer
+	)
 	stdout := bufio.NewWriter(&outbuf)
-	var errbuf bytes.Buffer
 	stderr := bufio.NewWriter(&errbuf)
 
 	cmd := exec.Command(name, arg...)
