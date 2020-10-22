@@ -7,12 +7,11 @@ import (
 	"fmt"
 	"io"
 	"io/ioutil"
+	"log"
 	"os"
 	"os/exec"
 	"path/filepath"
 	"strings"
-
-	"log"
 
 	"github.com/avelino/slugify"
 	"github.com/gosidekick/goconfig"
@@ -52,7 +51,7 @@ func fileExists(path string) (ret bool) {
 		if os.IsNotExist(err) {
 			return
 		}
-		fmt.Println(err)
+		log.Println(err)
 		return
 	}
 	ret = true
@@ -122,7 +121,10 @@ func visit(path string, f os.FileInfo, perr error) error {
 			log.Fatal(err)
 		}
 		for _, local := range files {
-			name := fmt.Sprintf("https://github.com/go-br/estudos/blob/master/%s/%s", f.Name(), local.Name())
+			name := fmt.Sprintf(
+				"https://github.com/go-br/estudos/blob/master/%s/%s",
+				f.Name(),
+				local.Name())
 			metadata += fmt.Sprintf("- [%s/%s](%s)\n", f.Name(), local.Name(), name)
 
 			fmt.Println(name)
@@ -143,12 +145,12 @@ func visit(path string, f os.FileInfo, perr error) error {
 func main() {
 	err := goconfig.Parse(&cfg)
 	if err != nil {
-		log.Errorln(err)
+		log.Println(err)
 		return
 	}
 
 	if cfg.OutputFolder == "" {
-		log.Errorln("error output folder not indicated")
+		log.Println("error output folder not indicated")
 		return
 	}
 
@@ -156,5 +158,5 @@ func main() {
 	if err == nil || err == io.EOF {
 		return
 	}
-	log.Errorln(err)
+	log.Println(err)
 }
