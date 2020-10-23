@@ -124,7 +124,7 @@ func visit(path string, f os.FileInfo, perr error) error {
 
 		// coloca arquivos no rodapé
 
-		metadata += "\n## Arquivos desse post:\n\n"
+		metadata += "\n### Arquivos desse post\n\n"
 		files, err := ioutil.ReadDir(path)
 		if err != nil {
 			log.Fatal(err)
