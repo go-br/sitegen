@@ -131,7 +131,7 @@ func visit(path string, f os.FileInfo, perr error) error {
 		}
 		for _, local := range files {
 			name := fmt.Sprintf(
-				"https://github.com/go-br/estudos/blob/master/%s/%s",
+				"https://github.com/go-br/estudos/blob/master/exemplos/%s/%s",
 				f.Name(),
 				local.Name())
 			metadata += fmt.Sprintf("- [%s/%s](%s)\n", f.Name(), local.Name(), name)
