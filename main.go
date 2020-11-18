@@ -39,6 +39,9 @@ func execHelper(path, name string, arg ...string) (out []byte, err error) {
 	cmd.Stdout = stdout
 	cmd.Stderr = stderr
 	err = cmd.Run()
+	if err != nil {
+		return
+	}
 	if errbuf.Len() > 0 {
 		err = errors.New(errbuf.String())
 		return
